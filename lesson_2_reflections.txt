@@ -1,0 +1,1 @@
+hen you initialize a repository , a .git init files is created . We should do this because otherwise we cannot do version control with out this first step

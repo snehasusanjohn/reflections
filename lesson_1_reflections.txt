@@ -1,0 +1,9 @@
+Diff between two files helps you spot the bug quite easily because you have lesser text to compare
+Makes bug fixing much easier
+pros: manual commits allow user to commit after every logical change , making it more meaningful
+cons: if user forget to commit, then there is a disdvantage
+A logical change would usually involve changing more than one file and it is useful for tracking purposes to commit all those files in one commit
+git log can be used to vie the log of all the commits done on a repository
+git diff can be used to view the differences between two commits
+Using version control makes us more confident to make changes that could break the code because you know that you can always revert back to the last working commit
+I want  to try using Git for version control of my source code
