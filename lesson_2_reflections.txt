@@ -4,3 +4,4 @@ Do a git diff to find difference between the working directory and the staging a
 Branches help when you would want to incorporate new feature only for a particular case scenario . Another area where branches could be useful is when you have several developers working on the same files . So each developer would have a branch 
 THe diagrams helps you visualize the branch structure and understanc reachability
 We merge two branches when you want the changes of one branch to be included in the other bracnh .Representing it in diagram help for better understanding
+automatic merging saves a lot of time when merging files without any conflicts . However for files wtih changes on the same lines ,manual merging is necessary
