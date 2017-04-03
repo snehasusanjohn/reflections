@@ -2,3 +2,4 @@ hen you initialize a repository , a .git init files is created . We should do th
 A staging area is a placeholder for files before committing them into the repository . It helps to ensure that the files that you want commit into version control are really those ones
 Do a git diff to find difference between the working directory and the staging area.
 Branches help when you would want to incorporate new feature only for a particular case scenario . Another area where branches could be useful is when you have several developers working on the same files . So each developer would have a branch 
+THe diagrams helps you visualize the branch structure and understanc reachability
