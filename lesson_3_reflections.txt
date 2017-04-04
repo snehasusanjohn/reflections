@@ -10,3 +10,5 @@ What is the benefit of having a copy of the last known state of the remote store
 Ans: Beneficial if you want to do a git diff , git log when you have to work offline 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Ans: Without git and git hub , collaborating would have to be done manually , via email or google docs , drop box etc . Merging would have to be done manually , even the ones without any conflict 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you are doing experimental work that hasn't been green lit yet , it would be best to do that on a seperate branch inpite of the added work of merging later on . But say you need to fix a small bug immediately , that you know would involve changing very few lines of code . Then working directly on the master would be advantageous to push the changes out into production .
