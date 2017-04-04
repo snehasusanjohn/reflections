@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 Ans: Fork is Githubs mechanism for cloning someone else's repository into your account. 
 Clone is to make a copy of your repository either locally or from remote to local 
 Branch is to make a copy of the master branch of your repository locally
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans: Beneficial if you want to do a git diff , git log when you have to work offline 
