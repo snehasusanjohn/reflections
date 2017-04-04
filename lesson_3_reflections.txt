@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 Ans : When you have different developers contributing to your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Ans: There might be commits that you might not want in your version
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Ans: Fork is Githubs mechanism for cloning someone else's repository into your account. 
+Clone is to make a copy of your repository either locally or from remote to local 
+Branch is to make a copy of the master branch of your repository locally
