@@ -8,3 +8,5 @@ Clone is to make a copy of your repository either locally or from remote to loca
 Branch is to make a copy of the master branch of your repository locally
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Ans: Beneficial if you want to do a git diff , git log when you have to work offline 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Ans: Without git and git hub , collaborating would have to be done manually , via email or google docs , drop box etc . Merging would have to be done manually , even the ones without any conflict 
